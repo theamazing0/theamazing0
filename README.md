@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hey! 👋
+### I'm an amateur programmer and avid Linux user
+
+https://github-readme-stats.vercel.app/api/top-langs/?username={theamazing0}
 
 <!--
 **theamazing0/theamazing0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
