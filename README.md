@@ -1,4 +1,5 @@
 # Hey! 👋
+
 ### I'm an amateur programmer 💻 and Linux enthusiast 🐧
 
 I also use [Gitea](https://git.projectsegfau.lt/theamazing0) for my git repos!
