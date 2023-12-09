@@ -1,6 +1,6 @@
 # Hey! 👋
 
-### I'm an amateur programmer 💻 and Linux enthusiast 🐧
+### I'm an aspiring programmer 💻 and Linux enthusiast 🐧
 
 I also use [Codeberg](https://codeberg.org/theamazing0) for my git repos!
 
