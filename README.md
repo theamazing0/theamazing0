@@ -1,6 +1,6 @@
 # Hey! 👋
 
-### I'm an aspiring programmer 💻 and Linux enthusiast 🐧
+### I'm Samvid Konchada, an aspiring programmer 💻 and Linux enthusiast 🐧
 
 I also use [Codeberg](https://codeberg.org/theamazing0) for my git repos!
 
